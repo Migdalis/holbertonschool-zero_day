@@ -1,1 +1,1 @@
-This is my first interaction with the shell and git
+Vagrant Project
